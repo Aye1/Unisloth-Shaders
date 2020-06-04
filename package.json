@@ -1,0 +1,10 @@
+{
+  "name": "com.unisloth.shaders",
+  "version": "0.1.0",
+  "displayName": "Unisloth Shaders",
+  "description": "This package contains useful shaders which can be reuse on several projects",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "dependencies": {
+ }
+}
