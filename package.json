@@ -1,6 +1,6 @@
 {
   "name": "com.unisloth.shaders",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "displayName": "Unisloth Shaders",
   "description": "This package contains useful shaders which can be reuse on several projects",
   "unity": "2019.1",
